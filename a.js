@@ -6,4 +6,4 @@ a1
 b233
 c3333
 番茄你个tomato
-console.log('到底在什么时候拉取代码不会生成合并commit节点呢');
+console.log('1026-先add然后拉取会不会显示冲突呢?');
