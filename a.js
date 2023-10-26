@@ -17,3 +17,4 @@ console.log('use the merge --continue instead of commit');
 // in this case ,there are two commit nodes
 console.log('then test there is no conflict');
 fffad
+1111111111111
