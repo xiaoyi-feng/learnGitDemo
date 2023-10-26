@@ -15,3 +15,4 @@ console.log('1026-add之后但是还没commit的时候，拉取代码，会自�
 console.log('use the merge --continue instead of commit');
 // the conflict has resolved, then add ., then merge --continue
 // in this case ,there are two commit nodes
+console.log('then test there is no conflict');
