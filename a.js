@@ -12,4 +12,3 @@ console.log('1026-add之后但是还没commit的时候，拉取代码，会自�
 //     a.js
 // Please commit your changes or stash them before you merge.
 // Aborting
-
