@@ -22,3 +22,5 @@ llllllllllll-commit one
 // lllll-three
 555555555-one
 5555555-two
+//-------------10.28-----------------
+console.log('pull代码自动合并的时候，没有冲突的情况下，远程代码自动合并到本地文件，此时该文件的状态是modified？')
