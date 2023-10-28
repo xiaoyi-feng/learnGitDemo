@@ -17,7 +17,7 @@ console.log('use the merge --continue instead of commit');
 // in this case ,there are two commit nodes
 console.log('then test there is no conflict');
 fffad
-llllllllllll-commit one
+// llllllllllll-commit one
 // lllllllll-two,no add commit ,is stash
 // lllll-three
 555555555-one
