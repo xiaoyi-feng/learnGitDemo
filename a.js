@@ -28,3 +28,4 @@ console.log('pull代码自动合并的时候，没有冲突的情况下，远程
 // 此时pull, 本地的修改与远程修改执行合并，生成一个merge commit，
 // git status : nothing to commit, working tree clean.use "git push" to publish your local commits
 //只需要执行 git pull就行了
+// 修改a.js which is on the feature branch on remote
