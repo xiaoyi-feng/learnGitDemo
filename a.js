@@ -31,3 +31,5 @@ console.log('pull代码自动合并的时候，没有冲突的情况下，远程
 // ===========10.30 ---------------------
 // 修改a.js which is on the feature branch on remote
 // saogenaot : is added on the feature branch on remote
+// ===== 10|31 ===================
+// git pull --rebase 有冲突的时候会怎么样？--remote
