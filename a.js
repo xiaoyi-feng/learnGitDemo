@@ -39,3 +39,6 @@ console.log('pull代码自动合并的时候，没有冲突的情况下，远程
 // 运行git status ，仍能被跟踪到
 // ---------23/11/23-------
 // 此时IDE中存在a.js, 但是远程仓库中不存在
+// -----------------commit----
+// 此时远程仓库存在a.js，.gitignore文件未配置
+// 接下来，执行git rm --cache a.js，不配置.gitignore，看git commit提交时是否会忽略a.js
