@@ -54,3 +54,5 @@ console.log('pull代码自动合并的时候，没有冲突的情况下，远程
 // .gitignore文件没有生效
 // -------------------
 // 在add . 之前执行git rm --cached  ,然后再执行git add . , commit , push
+// --------------
+// 先从本地删除a.js，然后在.gitignore文件中添加，接着再push,check .gitignore是否生效
